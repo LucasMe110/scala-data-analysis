@@ -1,0 +1,160 @@
+2024.11.24 10:46:35 INFO  Started: Metals version 1.4.1 in folders 'C:\Users\lucas\AppData\Local\Temp\scala-data-analysis' for client Visual Studio Code 1.95.3.
+2024.11.24 10:46:36 WARN  Flyway upgrade recommended: H2 2.3.232 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.224.
+2024.11.24 10:46:37 INFO  no build target found for C:\Users\lucas\AppData\Local\Temp\scala-data-analysis\build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.24 10:46:43 WARN  Could not find semantic tokens for: file:///C:/Users/lucas/AppData/Local/Temp/scala-data-analysis/build.sbt
+2024.11.24 10:47:55 INFO  no build target found for C:\Users\lucas\AppData\Local\Temp\scala-data-analysis\build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.24 10:47:57 INFO  no build target found for C:\Users\lucas\AppData\Local\Temp\scala-data-analysis\build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.24 10:47:57 INFO  no build target found for C:\Users\lucas\AppData\Local\Temp\scala-data-analysis\build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.24 10:48:04 INFO  no build target found for C:\Users\lucas\AppData\Local\Temp\scala-data-analysis\build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.24 10:48:04 INFO  no build target found for C:\Users\lucas\AppData\Local\Temp\scala-data-analysis\build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.24 10:48:05 INFO  no build target found for C:\Users\lucas\AppData\Local\Temp\scala-data-analysis\build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.24 10:48:05 INFO  no build target found for C:\Users\lucas\AppData\Local\Temp\scala-data-analysis\build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.24 10:48:05 INFO  no build target found for C:\Users\lucas\AppData\Local\Temp\scala-data-analysis\build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.24 10:48:05 INFO  no build target found for C:\Users\lucas\AppData\Local\Temp\scala-data-analysis\build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.24 10:48:06 WARN  no build target for: C:\Users\lucas\AppData\Local\Temp\scala-data-analysis\build.sbt
+2024.11.24 10:48:06 INFO  no build target found for C:\Users\lucas\AppData\Local\Temp\scala-data-analysis\build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.24 10:48:06 WARN  Could not find semantic tokens for: file:///C:/Users/lucas/AppData/Local/Temp/scala-data-analysis/build.sbt
+2024.11.24 10:48:16 INFO  no build target found for C:\Users\lucas\AppData\Local\Temp\scala-data-analysis\build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+Exception in thread "pool-12-thread-1" java.lang.InterruptedException
+	at scala.meta.internal.metals.FutureCancelToken.checkCanceled(FutureCancelToken.scala:29)
+	at scala.meta.internal.pc.CompilerAccess.onCompilerJobQueue$$anonfun$1(CompilerAccess.scala:244)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:153)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:840)
+2024.11.24 10:48:18 INFO  no build target found for C:\Users\lucas\AppData\Local\Temp\scala-data-analysis\build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.24 10:48:18 INFO  no build target found for C:\Users\lucas\AppData\Local\Temp\scala-data-analysis\build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.24 10:48:18 INFO  no build target found for C:\Users\lucas\AppData\Local\Temp\scala-data-analysis\build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.24 10:48:20 WARN  no build target for: C:\Users\lucas\AppData\Local\Temp\scala-data-analysis\build.sbt
+2024.11.24 10:48:20 INFO  no build target found for C:\Users\lucas\AppData\Local\Temp\scala-data-analysis\build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.24 10:48:20 INFO  skipping build import with status 'Dismissed'
+2024.11.24 10:48:20 WARN  Could not find semantic tokens for: file:///C:/Users/lucas/AppData/Local/Temp/scala-data-analysis/build.sbt
+2024.11.24 10:48:22 INFO  no build target found for C:\Users\lucas\AppData\Local\Temp\scala-data-analysis\build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.24 10:48:22 WARN  Could not find semantic tokens for: file:///C:/Users/lucas/AppData/Local/Temp/scala-data-analysis/build.sbt
+2024.11.24 10:48:36 INFO  no build target found for C:\Users\lucas\AppData\Local\Temp\scala-data-analysis\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.24 10:48:36 INFO  no build target found for C:\Users\lucas\AppData\Local\Temp\scala-data-analysis\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.24 10:48:36 INFO  no build target found for C:\Users\lucas\AppData\Local\Temp\scala-data-analysis\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.24 10:48:40 INFO  no build target found for c:\Users\lucas\AppData\Local\Temp\scala-data-analysis\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.24 10:48:40 INFO  no build target found for C:\Users\lucas\AppData\Local\Temp\scala-data-analysis\build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.24 10:48:42 INFO  no build target found for C:\Users\lucas\AppData\Local\Temp\scala-data-analysis\build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.24 10:48:42 WARN  Could not find semantic tokens for: file:///C:/Users/lucas/AppData/Local/Temp/scala-data-analysis/build.sbt
+2024.11.24 10:49:12 INFO  Shutting down server
+2024.11.24 10:49:12 INFO  shutting down Metals
+2024.11.24 10:49:12 INFO  Exiting server
+2024.11.24 10:49:19 INFO  Started: Metals version 1.4.1 in folders 'C:\Users\lucas\AppData\Local\Temp\scala-data-analysis' for client Visual Studio Code 1.95.3.
+2024.11.24 10:49:19 WARN  Flyway upgrade recommended: H2 2.3.232 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.224.
+2024.11.24 10:49:20 INFO  no build target found for C:\Users\lucas\AppData\Local\Temp\scala-data-analysis\build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.24 10:49:20 INFO  skipping build import with status 'Dismissed'
+2024.11.24 10:49:20 INFO  no build target found for C:\Users\lucas\AppData\Local\Temp\scala-data-analysis\build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.24 10:49:22 INFO  time: code lens generation in 1.85s
+2024.11.24 10:49:37 INFO  no build target found for C:\Users\lucas\AppData\Local\Temp\scala-data-analysis\build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.24 10:52:33 INFO  logging to files C:\Users\lucas\AppData\Local\Temp\scala-data-analysis\.metals\metals.log
+2024.11.24 10:52:33 WARN  Flyway upgrade recommended: H2 2.3.232 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.224.
+2024.11.24 10:52:36 INFO  running 'C:\Program Files\Java\jdk1.8.0_202\bin\java.exe -Djline.terminal=jline.UnsupportedTerminal -Dsbt.log.noformat=true -Dfile.encoding=UTF-8 -jar C:\Users\lucas\AppData\Local\Temp\metals14078312895970896289\sbt-launch.jar -Dbloop.export-jar-classifiers=sources bloopInstall'
+2024.11.24 10:52:38 INFO  [info] welcome to sbt 1.10.5 (Oracle Corporation Java 1.8.0_202)
+2024.11.24 10:52:38 INFO  no build target found for C:\Users\lucas\AppData\Local\Temp\scala-data-analysis\build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.24 10:52:38 INFO  no build target found for C:\Users\lucas\AppData\Local\Temp\scala-data-analysis\build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.24 10:52:40 WARN  Could not find semantic tokens for: file:///C:/Users/lucas/AppData/Local/Temp/scala-data-analysis/build.sbt
+2024.11.24 10:52:41 INFO  [info] loading settings for project scala-data-analysis-build-build from metals.sbt ...
+2024.11.24 10:52:41 INFO  [info] loading project definition from C:\Users\lucas\AppData\Local\Temp\scala-data-analysis\project\project
+2024.11.24 10:52:47 INFO  [info] loading settings for project scala-data-analysis-build from metals.sbt ...
+2024.11.24 10:52:47 INFO  [info] loading project definition from C:\Users\lucas\AppData\Local\Temp\scala-data-analysis\project
+2024.11.24 10:52:49 INFO  [error] Couldn't run bloopGenerate. The issue could be caused by failing to compile the project.
+2024.11.24 10:52:49 INFO  [error] java.lang.UnsupportedClassVersionError: com/github/plokhotnyuk/jsoniter_scala/core/ByteArrayAccess has been compiled by a more recent version of the Java Runtime (class file version 55.0), this version of the Java Runtime only recognizes class file versions up to 52.0
+2024.11.24 10:52:49 INFO  [error] 	at java.lang.ClassLoader.defineClass1(Native Method)
+2024.11.24 10:52:49 INFO  [error] 	at java.lang.ClassLoader.defineClass(ClassLoader.java:763)
+2024.11.24 10:52:49 INFO  [error] 	at java.security.SecureClassLoader.defineClass(SecureClassLoader.java:142)
+2024.11.24 10:52:49 INFO  [error] 	at java.net.URLClassLoader.defineClass(URLClassLoader.java:468)
+2024.11.24 10:52:49 INFO  [error] 	at java.net.URLClassLoader.access$100(URLClassLoader.java:74)
+2024.11.24 10:52:49 INFO  [error] 	at java.net.URLClassLoader$1.run(URLClassLoader.java:369)
+2024.11.24 10:52:49 INFO  [error] 	at java.net.URLClassLoader$1.run(URLClassLoader.java:363)
+2024.11.24 10:52:49 INFO  [error] 	at java.security.AccessController.doPrivileged(Native Method)
+2024.11.24 10:52:49 INFO  [error] 	at java.net.URLClassLoader.findClass(URLClassLoader.java:362)
+2024.11.24 10:52:49 INFO  [error] 	at java.lang.ClassLoader.loadClass(ClassLoader.java:424)
+2024.11.24 10:52:49 INFO  [error] 	at java.lang.ClassLoader.loadClass(ClassLoader.java:357)
+2024.11.24 10:52:49 INFO  [error] 	at com.github.plokhotnyuk.jsoniter_scala.core.JsonWriter.writeIndention(JsonWriter.scala:1090)
+2024.11.24 10:52:49 INFO  [error] 	at com.github.plokhotnyuk.jsoniter_scala.core.JsonWriter.writeIndention(JsonWriter.scala:1081)
+2024.11.24 10:52:49 INFO  [error] 	at com.github.plokhotnyuk.jsoniter_scala.core.JsonWriter.writeNestedStart(JsonWriter.scala:1052)
+2024.11.24 10:52:49 INFO  [error] 	at com.github.plokhotnyuk.jsoniter_scala.core.JsonWriter.writeObjectStart(JsonWriter.scala:881)
+2024.11.24 10:52:49 INFO  [error] 	at bloop.config.ConfigCodecs$$anon$16.e0(ConfigCodecs.scala:319)
+2024.11.24 10:52:49 INFO  [error] 	at bloop.config.ConfigCodecs$$anon$16.encodeValue(ConfigCodecs.scala:319)
+2024.11.24 10:52:49 INFO  [error] 	at bloop.config.ConfigCodecs$$anon$16.encodeValue(ConfigCodecs.scala:319)
+2024.11.24 10:52:49 INFO  [error] 	at com.github.plokhotnyuk.jsoniter_scala.core.JsonWriter.write(JsonWriter.scala:927)
+2024.11.24 10:52:49 INFO  [error] 	at com.github.plokhotnyuk.jsoniter_scala.core.package$.writeToArray(package.scala:411)
+2024.11.24 10:52:49 INFO  [error] 	at bloop.config.ConfigCodecs$.toStr(ConfigCodecs.scala:335)
+2024.11.24 10:52:49 INFO  [error] 	at bloop.config.package$.write(package.scala:9)
+2024.11.24 10:52:49 INFO  [error] 	at bloop.config.package$.write(package.scala:11)
+2024.11.24 10:52:49 INFO  [error] 	at bloop.integrations.sbt.BloopDefaults$.writeConfigAtomically(SbtBloop.scala:1109)
+2024.11.24 10:52:49 INFO  [error] 	at bloop.integrations.sbt.BloopDefaults$.$anonfun$bloopGenerate$4(SbtBloop.scala:1073)
+2024.11.24 10:52:49 INFO  [error] 	at scala.Function1.$anonfun$compose$1(Function1.scala:49)
+2024.11.24 10:52:49 INFO  [error] 	at sbt.internal.util.$tilde$greater.$anonfun$$u2219$1(TypeFunctions.scala:63)
+2024.11.24 10:52:49 INFO  [error] 	at sbt.std.Transform$$anon$4.work(Transform.scala:69)
+2024.11.24 10:52:49 INFO  [error] 	at sbt.Execute.$anonfun$submit$2(Execute.scala:283)
+2024.11.24 10:52:49 INFO  [error] 	at sbt.internal.util.ErrorHandling$.wideConvert(ErrorHandling.scala:24)
+2024.11.24 10:52:49 INFO  [error] 	at sbt.Execute.work(Execute.scala:292)
+2024.11.24 10:52:49 INFO  [error] 	at sbt.Execute.$anonfun$submit$1(Execute.scala:283)
+2024.11.24 10:52:49 INFO  [error] 	at sbt.ConcurrentRestrictions$$anon$4.$anonfun$submitValid$1(ConcurrentRestrictions.scala:265)
+2024.11.24 10:52:49 INFO  [error] 	at sbt.CompletionService$$anon$2.call(CompletionService.scala:65)
+2024.11.24 10:52:49 INFO  [error] 	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+2024.11.24 10:52:49 INFO  [error] 	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+2024.11.24 10:52:49 INFO  [error] 	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+2024.11.24 10:52:49 INFO  [error] 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+2024.11.24 10:52:49 INFO  [error] 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+2024.11.24 10:52:49 INFO  [error] 	at java.lang.Thread.run(Thread.java:748)
+2024.11.24 10:52:49 INFO  [error] (Global / bloopInstall) java.lang.UnsupportedClassVersionError: com/github/plokhotnyuk/jsoniter_scala/core/ByteArrayAccess has been compiled by a more recent version of the Java Runtime (class file version 55.0), this version of the Java Runtime only recognizes class file versions up to 52.0
+2024.11.24 10:52:49 INFO  [error] Total time: 3 s, completed 24/11/2024 11:52:50
+2024.11.24 10:52:49 INFO  [warn] Project loading failed: (r)etry, (q)uit, (l)ast, or (i)gnore? (default: r)
+2024.11.24 10:52:51 INFO  [info] loading settings for project scala-data-analysis from build.sbt ...
+2024.11.24 10:52:51 INFO  [info] set current project to SCALADATA (in build file:/C:/Users/lucas/AppData/Local/Temp/scala-data-analysis/)
+2024.11.24 10:52:55 INFO  [warn] found version conflict(s) in library dependencies; some are suspected to be binary incompatible:
+2024.11.24 10:52:55 INFO  [warn] 	* org.scala-lang.modules:scala-parser-combinators_2.12:2.3.0 (early-semver) is selected over 1.1.2
+2024.11.24 10:52:55 INFO  [warn] 	    +- ch.epfl.scala:scaladata_2.12:1.0                   (depends on 2.3.0)
+2024.11.24 10:52:55 INFO  [warn] 	    +- org.apache.spark:spark-catalyst_2.12:3.3.0         (depends on 1.1.2)
+2024.11.24 10:53:00 INFO  [error] Couldn't run bloopGenerate. The issue could be caused by failing to compile the project.
+2024.11.24 10:53:00 INFO  [error] java.lang.UnsupportedClassVersionError: com/github/plokhotnyuk/jsoniter_scala/core/ByteArrayAccess
+2024.11.24 10:53:00 INFO  [error] 	at com.github.plokhotnyuk.jsoniter_scala.core.JsonWriter.writeIndention(JsonWriter.scala:1090)
+2024.11.24 10:53:00 INFO  [error] 	at com.github.plokhotnyuk.jsoniter_scala.core.JsonWriter.writeIndention(JsonWriter.scala:1081)
+2024.11.24 10:53:00 INFO  [error] 	at com.github.plokhotnyuk.jsoniter_scala.core.JsonWriter.writeNestedStart(JsonWriter.scala:1052)
+2024.11.24 10:53:00 INFO  [error] 	at com.github.plokhotnyuk.jsoniter_scala.core.JsonWriter.writeObjectStart(JsonWriter.scala:881)
+2024.11.24 10:53:00 INFO  [error] 	at bloop.config.ConfigCodecs$$anon$16.e0(ConfigCodecs.scala:319)
+2024.11.24 10:53:00 INFO  [error] 	at bloop.config.ConfigCodecs$$anon$16.encodeValue(ConfigCodecs.scala:319)
+2024.11.24 10:53:00 INFO  [error] 	at bloop.config.ConfigCodecs$$anon$16.encodeValue(ConfigCodecs.scala:319)
+2024.11.24 10:53:00 INFO  [error] 	at com.github.plokhotnyuk.jsoniter_scala.core.JsonWriter.write(JsonWriter.scala:927)
+2024.11.24 10:53:00 INFO  [error] 	at com.github.plokhotnyuk.jsoniter_scala.core.package$.writeToArray(package.scala:411)
+2024.11.24 10:53:00 INFO  [error] 	at bloop.config.ConfigCodecs$.toStr(ConfigCodecs.scala:335)
+2024.11.24 10:53:00 INFO  [error] 	at bloop.config.package$.write(package.scala:9)
+2024.11.24 10:53:00 INFO  [error] 	at bloop.config.package$.write(package.scala:11)
+2024.11.24 10:53:00 INFO  [error] 	at bloop.integrations.sbt.BloopDefaults$.writeConfigAtomically(SbtBloop.scala:1109)
+2024.11.24 10:53:00 INFO  [error] 	at bloop.integrations.sbt.BloopDefaults$.$anonfun$bloopGenerate$4(SbtBloop.scala:1073)
+2024.11.24 10:53:00 INFO  [error] 	at scala.Function1.$anonfun$compose$1(Function1.scala:49)
+2024.11.24 10:53:00 INFO  [error] 	at sbt.internal.util.$tilde$greater.$anonfun$$u2219$1(TypeFunctions.scala:63)
+2024.11.24 10:53:00 INFO  [error] 	at sbt.std.Transform$$anon$4.work(Transform.scala:69)
+2024.11.24 10:53:00 INFO  [error] 	at sbt.Execute.$anonfun$submit$2(Execute.scala:283)
+2024.11.24 10:53:00 INFO  [error] 	at sbt.internal.util.ErrorHandling$.wideConvert(ErrorHandling.scala:24)
+2024.11.24 10:53:00 INFO  [error] 	at sbt.Execute.work(Execute.scala:292)
+2024.11.24 10:53:00 INFO  [error] 	at sbt.Execute.$anonfun$submit$1(Execute.scala:283)
+2024.11.24 10:53:00 INFO  [error] 	at sbt.ConcurrentRestrictions$$anon$4.$anonfun$submitValid$1(ConcurrentRestrictions.scala:265)
+2024.11.24 10:53:00 INFO  [error] 	at sbt.CompletionService$$anon$2.call(CompletionService.scala:65)
+2024.11.24 10:53:00 INFO  [error] 	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+2024.11.24 10:53:00 INFO  [error] 	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+2024.11.24 10:53:00 INFO  [error] 	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+2024.11.24 10:53:00 INFO  [error] 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+2024.11.24 10:53:00 INFO  [error] 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+2024.11.24 10:53:00 INFO  [error] 	at java.lang.Thread.run(Thread.java:748)
+2024.11.24 10:53:00 INFO  [error] (Global / bloopInstall) java.lang.UnsupportedClassVersionError: com/github/plokhotnyuk/jsoniter_scala/core/ByteArrayAccess
+2024.11.24 10:53:00 INFO  [error] Total time: 8 s, completed 24/11/2024 11:53:00
+2024.11.24 10:53:00 INFO  time: ran 'sbt bloopInstall' in 24s
+2024.11.24 10:53:00 ERROR sbt command failed: C:\Program Files\Java\jdk1.8.0_202\bin\java.exe -Djline.terminal=jline.UnsupportedTerminal -Dsbt.log.noformat=true -Dfile.encoding=UTF-8 -jar C:\Users\lucas\AppData\Local\Temp\metals14078312895970896289\sbt-launch.jar -Dbloop.export-jar-classifiers=sources bloopInstall
+2024.11.24 10:53:00 INFO  no build target found for C:\Users\lucas\AppData\Local\Temp\scala-data-analysis\build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.24 10:53:40 INFO  no build target found for C:\Users\lucas\AppData\Local\Temp\scala-data-analysis\build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.24 10:53:40 INFO  no build target found for C:\Users\lucas\AppData\Local\Temp\scala-data-analysis\src\main\scala\Churnrate.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.24 10:53:40 INFO  no build target found for C:\Users\lucas\AppData\Local\Temp\scala-data-analysis\src\main\scala\Churnrate.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.24 10:53:41 INFO  no build target found for C:\Users\lucas\AppData\Local\Temp\scala-data-analysis\src\main\scala\Churnrate.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.24 10:53:49 INFO  no build target found for C:\Users\lucas\AppData\Local\Temp\scala-data-analysis\src\main\scala\Churnrate.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.24 10:53:50 INFO  no build target found for C:\Users\lucas\AppData\Local\Temp\scala-data-analysis\src\main\scala\Churnrate.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.24 10:53:50 INFO  no build target found for C:\Users\lucas\AppData\Local\Temp\scala-data-analysis\src\main\scala\Churnrate.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.24 10:53:50 INFO  no build target found for C:\Users\lucas\AppData\Local\Temp\scala-data-analysis\src\main\scala\Churnrate.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.24 10:53:50 INFO  no build target found for C:\Users\lucas\AppData\Local\Temp\scala-data-analysis\src\main\scala\Churnrate.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.24 10:53:50 INFO  no build target found for C:\Users\lucas\AppData\Local\Temp\scala-data-analysis\src\main\scala\Churnrate.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.24 10:53:50 INFO  no build target found for C:\Users\lucas\AppData\Local\Temp\scala-data-analysis\src\main\scala\Churnrate.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.24 10:53:50 INFO  no build target found for C:\Users\lucas\AppData\Local\Temp\scala-data-analysis\src\main\scala\Churnrate.scala. Using presentation compiler with project's scala-library version: 3.3.4

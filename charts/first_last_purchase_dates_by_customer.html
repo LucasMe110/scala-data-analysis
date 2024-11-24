@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>First and Last Purchase Dates by Customer</title>
+<script src="https://cdn.plot.ly/plotly-1.52.2.min.js"></script>
+</head>
+<body>
+<div id="chart"></div>
+<script>
+(function () {
+  var data0 = {"x":["2021-01","2021-02","2021-03"],"name":"First Orders","y":[100.0,150.0,120.0],"marker":{"color":"rgb(31, 119, 180)"},"type":"bar"};
+  var data1 = {"x":["2021-01","2021-02","2021-03"],"name":"Last Orders","y":[90.0,130.0,100.0],"marker":{"color":"rgb(255, 127, 14)"},"type":"bar"};
+
+  var data = [data0, data1];
+  var layout = {"paper_bgcolor":"rgb(35, 39, 44)","font":{"color":"rgb(255, 255, 255)","family":"Arial","size":12},"barmode":"stack","plot_bgcolor":"rgb(35, 39, 44)","title":"First and Last Purchase Dates by Customer","yaxis":{"title":"Number of Orders"},"xaxis":{"title":"Month"}};
+ var config = {};
+
+  Plotly.plot('chart', data, layout, config);
+})();
+</script>
+</body>
+</html>
+       
