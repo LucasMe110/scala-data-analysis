@@ -21,7 +21,7 @@
 
 - O gráfico gerado com o nome  “churn_rate_chart.png” é adicionado à pasta charts 
 
-![](churn_rate_chart.png)
+! [](churn_rate_chart.png)
 
 
 ## GraficosChurn.scala
